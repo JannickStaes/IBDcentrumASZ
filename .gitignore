@@ -340,8 +340,8 @@ ASALocalRun/
 healthchecksdb
 
 #add Jannick 03/01/21
-.sln
-.pyproj
-.pyproj.user
-.sqlite3
+*.sln
+*.pyproj
+*.pyproj.user
+*.sqlite3
 env/
