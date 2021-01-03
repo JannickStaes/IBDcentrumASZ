@@ -345,3 +345,4 @@ healthchecksdb
 *.pyproj.user
 *.sqlite3
 env/
+/Main/static/bootstrap
